@@ -1,0 +1,22 @@
+{
+  "name": "ethcrawfords-brunch",
+  "version": "2.0.0",
+  "description": "The initial configuration of the brunch for the front-end development using pug and stylus",
+  "license": "MIT",
+  "scripts": {
+    "start": "brunch watch --server",
+    "watch": "brunch watch",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "remove": "^0.1.5"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "brunch": "^2.10.12",
+    "clean-css-brunch": "^2.10.0",
+    "pugjs-brunch": "^2.10.2",
+    "stylus-brunch": "^2.10.0",
+    "uglify-js-brunch": "^2.10.0"
+  }
+}
